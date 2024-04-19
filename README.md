@@ -1,4 +1,5 @@
-### Hi there 👋
+### WIP: README 👋
+![me.gif](https://github.com/wingyeung0317/wingyeung0317/assets/121206892/28a4ce78-40e6-47d9-bd71-bf66fdac4dc9)
 
 <!--
 **wingyeung0317/wingyeung0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
