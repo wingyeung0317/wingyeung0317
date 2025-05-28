@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-<div><span style="display: inline-block"><img align="left" src="https://github.com/wingyeung0317/wingyeung0317/assets/121206892/28a4ce78-40e6-47d9-bd71-bf66fdac4dc9" style="display:table-cell; height: 80px;"/></span><span style="display:table-cell;">🎓 I'm currently studying for a Higher Diploma in Computer and Electronic Engineering.<br><br>🌱 I'm passionate about learning and growing as a developer, and I'm always looking for new challenges to tackle.</span></div>
+<div><span style="display: inline-block"><img align="left" src="https://avatars.githubusercontent.com/u/121206892?v=4" style="display:table-cell; height: 80px;"/><img align="left" src="https://github.com/user-attachments/assets/9bb40690-1181-4d6a-8869-dfb120e73836" style="display:table-cell; height: 80px;"/>
+</span><span style="display:table-cell;">💼 I'm currently employed by EMSD as an Electronic Trainee Technician.<br><br>🎓 I'm currently studying for a Higher Diploma in Computer and Electronic Engineering.<br><br>💬 I chose an unexpected path, versus my initial enthusiasm. But I don’t think it is a bad thing. I still have the passion for full-stack development, and it feels good to finish a project that can benefit myself.</span></div>
 <br clear="left">
 
 ## 🌐 Socials:
@@ -35,4 +36,5 @@
 [![](https://visitcount.itsvg.in/api?id=wingyeung0317&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wingyeung0317) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wingyeung0317) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/wingyeung0317) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wingyeung0317) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wingyeung0317) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wingyeung0317) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/wingyeung0317) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wingyeung0317) [![PayMe](https://img.shields.io/badge/PayMe-c92a23?style=for-the-badge&logoColor=payme&logoColor=white)](https://payme.hsbc/killicit) ![FPS](https://img.shields.io/badge/FPS-169743051-00A86B?style=for-the-badge&logo=dollar-sign&logoColor=white)
+
